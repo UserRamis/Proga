@@ -1,0 +1,4 @@
+﻿  4ya.cpp
+C:\Users\Ramis\source\repos\4ya\4ya\4ya.cpp(120,9): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Ramis\source\repos\4ya\4ya\4ya.cpp(153,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  4ya.vcxproj -> C:\Users\Ramis\source\repos\4ya\x64\Debug\4ya.exe
